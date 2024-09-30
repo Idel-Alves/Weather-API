@@ -21,7 +21,7 @@
 
 body {
     font-size: 1.6rem;
-    background-image: url("/ASSETS/bg.jpg");
+    background-image: url("../ASSETS/bg.jpg");
     width: 100%;
     height: 100vh;
     background-position: center;
