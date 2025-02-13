@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/95b63d46-f062-41ce-bbc9-0cce32b6da9c
 
-## Tecnologias 💻
+## technologies 💻
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -10,15 +10,16 @@ https://github.com/user-attachments/assets/95b63d46-f062-41ce-bbc9-0cce32b6da9c
   <li>TMDB API</li>
 </ul>
 
-## Descrição do Projeto
-O projeto é uma aplicação de previsão de clima usando HTML, CSS, JavaScript integrada com API.
+## Project description
+The project is a weather forecasting application for the current moment and at least 4 days ahead, for any city in the world, using HTML, CSS, JavaScript, and API integration.
 
-## Objetivos com o projeto
-#### Aprimorar o conhecimento em:
+## Objectives of the project
+#### Improve knowledge in:
 <ul>
-   <li>Integração com API</li>
-   <li>Funções assíncronas</li>
+   <li>API integration</li>
+   <li>Asynchronous functions</li>
+  <li>Mobile First development</li>
 </ul>
 
-## Github Page do projeto 🚀
+## Project's GitHub Page 🚀
 https://idel-alves.github.io/Weather-API/
